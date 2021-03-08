@@ -17,3 +17,8 @@ DIRECT IN REPO:
   <source src="demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+<video controls>
+  <source src="https://github.com/fittytizio/test01/blob/main/demo.mp4?raw=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
