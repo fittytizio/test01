@@ -6,7 +6,7 @@ Sample text.
 
 Demonstration video:
 
-<video width="768" controls>
+<video width="100%" controls>
     <source src="demo.mp4" type="video/mp4">
     <a href="https://fittytizio.github.io/test01/" target="_blank">LINK</a>
 </video>
